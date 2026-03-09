@@ -1,0 +1,45 @@
+.st0 {
+    fill: #3B82F6;
+}
+
+/* Azul Principal (Destaque/Ação) */
+.st1 {
+    fill: #64748B;
+}
+
+/* Azul Acinzentado (Subtítulo/Elementos secundários) */
+.st2 {
+    fill: #0F172A;
+}
+
+/* Azul Escuro/Preto (Nome principal/Base do carro) */
+.st3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* Fonte de exemplo (Montserrat ou similar) */
+.st4 {
+    font-weight: 700;
+}
+
+/* Peso Negrito */
+.st5 {
+    font-weight: 300;
+}
+
+/* Peso Leve */
+.st6 {
+    font-size: 72px;
+}
+
+/* Tamanho Grande */
+.st7 {
+    font-size: 24px;
+}
+
+/* Tamanho Pequeno (Subtítulo) */
+.st8 {
+    letter-spacing: -1px;
+}
+
+/* Espaçamento mais apertado */
